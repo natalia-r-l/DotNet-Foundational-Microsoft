@@ -1,0 +1,14 @@
+C:\Users\resin\Development\DotNet\DotNet-Foundational-Microsoft\bin\Debug\net7.0\DotNet-Foundational-Microsoft.exe
+C:\Users\resin\Development\DotNet\DotNet-Foundational-Microsoft\bin\Debug\net7.0\DotNet-Foundational-Microsoft.deps.json
+C:\Users\resin\Development\DotNet\DotNet-Foundational-Microsoft\bin\Debug\net7.0\DotNet-Foundational-Microsoft.runtimeconfig.json
+C:\Users\resin\Development\DotNet\DotNet-Foundational-Microsoft\bin\Debug\net7.0\DotNet-Foundational-Microsoft.dll
+C:\Users\resin\Development\DotNet\DotNet-Foundational-Microsoft\bin\Debug\net7.0\DotNet-Foundational-Microsoft.pdb
+C:\Users\resin\Development\DotNet\DotNet-Foundational-Microsoft\obj\Debug\net7.0\DotNet-Foundational-Microsoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resin\Development\DotNet\DotNet-Foundational-Microsoft\obj\Debug\net7.0\DotNet-Foundational-Microsoft.AssemblyInfoInputs.cache
+C:\Users\resin\Development\DotNet\DotNet-Foundational-Microsoft\obj\Debug\net7.0\DotNet-Foundational-Microsoft.AssemblyInfo.cs
+C:\Users\resin\Development\DotNet\DotNet-Foundational-Microsoft\obj\Debug\net7.0\DotNet-Foundational-Microsoft.csproj.CoreCompileInputs.cache
+C:\Users\resin\Development\DotNet\DotNet-Foundational-Microsoft\obj\Debug\net7.0\DotNet-Foundational-Microsoft.dll
+C:\Users\resin\Development\DotNet\DotNet-Foundational-Microsoft\obj\Debug\net7.0\refint\DotNet-Foundational-Microsoft.dll
+C:\Users\resin\Development\DotNet\DotNet-Foundational-Microsoft\obj\Debug\net7.0\DotNet-Foundational-Microsoft.pdb
+C:\Users\resin\Development\DotNet\DotNet-Foundational-Microsoft\obj\Debug\net7.0\DotNet-Foundational-Microsoft.genruntimeconfig.cache
+C:\Users\resin\Development\DotNet\DotNet-Foundational-Microsoft\obj\Debug\net7.0\ref\DotNet-Foundational-Microsoft.dll

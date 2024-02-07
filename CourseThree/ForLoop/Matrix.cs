@@ -1,4 +1,4 @@
-
+/*
 // Lendo a matriz e trocando o nome David por Sammy
 string[] names2 = { "Alex", "Eddie", "David", "Michael" };
 for (int i = 0; i < names2.Length; i++)
@@ -24,3 +24,4 @@ for (int i = names1.Length - 1; i >= 0; i--)
 }
 
 
+*/
